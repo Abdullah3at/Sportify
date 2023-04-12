@@ -1,0 +1,164 @@
+[
+  {
+    "name": "three",
+    "price": "$200",
+    "capacity": "10",
+    "category": "Out Door",
+    "_id": 3000,
+    "imageSrc": "https://i.imgur.com/iuRbvcs.jpg",
+    "schedule": {
+      "mon": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "tue": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "wed": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "thu": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "fri": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "sat": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true },
+        { "startTime": "9:00 pm", "endTime": "11:00 pm", "isAvailable": true }
+      ],
+      "sun": [{ "startTime": "", "endTime": "", "isAvailable": false }]
+    }
+  },
+  {
+    "name": "four",
+    "price": "$400",
+    "capacity": "22",
+    "category": "Out Door",
+    "_id": 4000,
+    "imageSrc": "https://i.imgur.com/6eBUf65.jpg",
+    "schedule": {
+      "mon": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "tue": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "wed": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "thu": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "fri": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "sat": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true },
+        { "startTime": "9:00 pm", "endTime": "11:00 pm", "isAvailable": true }
+      ],
+      "sun": [{ "startTime": "", "endTime": "", "isAvailable": false }]
+    }
+  },
+  {
+    "name": "five",
+    "price": "$200",
+    "capacity": "10",
+    "category": "Out Door",
+    "_id": 5000,
+    "imageSrc": "https://i.imgur.com/LS4hmrT.jpg",
+    "schedule": {
+      "mon": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "tue": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "wed": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "thu": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "fri": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true }
+      ],
+      "sat": [
+        { "startTime": "11:00 am", "endTime": "1:00 pm", "isAvailable": true },
+        { "startTime": "1:00 pm", "endTime": "3:00 pm", "isAvailable": true },
+        { "startTime": "3:00 am", "endTime": "5:00 pm", "isAvailable": true },
+        { "startTime": "5:00 pm", "endTime": "7:00 pm", "isAvailable": true },
+        { "startTime": "7:00 pm", "endTime": "9:00 pm", "isAvailable": true },
+        { "startTime": "9:00 pm", "endTime": "11:00 pm", "isAvailable": true }
+      ],
+      "sun": [{ "startTime": "", "endTime": "", "isAvailable": false }]
+    }
+  }
+]
